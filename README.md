@@ -35,4 +35,4 @@ EDUCATIONAL USE ONLY
 
 
 
-![Screenshot](assets/Screenshot 2025-04-30 152122.png)
+![Screenshot](Screenshot 2025-04-30 152122.png)
