@@ -29,3 +29,6 @@ Use a rotating proxy list to reduce the risk of getting blocked after too many f
 
 
 Press UP arrow key to toggle on and off.
+
+
+EDUCATIONAL USE ONLY
