@@ -26,3 +26,6 @@ Limitations:
 This bot will not bypass captchas or session timeouts.
 
 Use a rotating proxy list to reduce the risk of getting blocked after too many failed attempts.
+
+
+Press UP arrow key to toggle on and off.
