@@ -1,14 +1,28 @@
 # Pass-crack
-password cracker
+Dot Placement:
 
-when you press select dots 3 dots will pop up
-place green ontop of username
-red ontop of password
-blue ontop of login button
-make sure there is room just to the right of the dots that is where the program clicks. 
+Click "Select Dots" to spawn three movable dots.
 
-only use either user:pass list or username and password list. dont use both
+Green Dot: Position it over the username field.
 
-dont go too fast on the timer otherwise it will break.
+Red Dot: Position it over the password field.
 
-this will not work if there is a captcha or timeout. but the proxy list should help if there is a stop for how many attempts tried
+Blue Dot: Position it over the login button.
+
+Important: Ensure there is empty space just to the right of each dot—this is where the automated clicks will occur.
+
+Input Modes:
+
+You can use either a user:pass combo list or separate username and password lists.
+
+Do not use both input modes at the same time.
+
+Timing:
+
+Avoid setting the timer too fast—excessive speed can cause the bot to malfunction or miss interactions.
+
+Limitations:
+
+This bot will not bypass captchas or session timeouts.
+
+Use a rotating proxy list to reduce the risk of getting blocked after too many failed attempts.
